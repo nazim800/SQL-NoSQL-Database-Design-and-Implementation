@@ -117,7 +117,7 @@ VALUES
 (1007, '2023-03-05', 22, 102, 9, 60.00),
 (1008, '2023-01-01', 18, 101, 14, 66.50),
 (1009, '2022-05-10', 15, 104, 8.5, 55.25),
-(1010, '2023-05-01', 25, 107, 12, 415.25);```
+(1010, '2023-05-01', 25, 107, 12, 415.25) ```
 
 ---
 
@@ -232,7 +232,7 @@ FROM EMPLOYEE
 WHERE Emp_Num NOT IN (SELECT Emp_Num FROM ASSIGNMENT);
 
 -- u. Show contents of EmpVirtual table
-SELECT * FROM EmpVirtual;```
+SELECT * FROM EmpVirtual; ```
 
 ---
 
@@ -322,7 +322,7 @@ db.Assignment.find(
 // f. Find and show all documents where Emp_Num is NOT equal to 110
 db.Assignment.find(
   { Emp_Num: { $ne: 110 } }
-).pretty();```
+).pretty(); ```
 
 
 MongoDB demonstrated flexibility in handling schema-less data and provided an excellent contrast to the structured SQL setup.
