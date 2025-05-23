@@ -1,4 +1,4 @@
-<img width="446" alt="image" src="https://github.com/user-attachments/assets/b4e3f88a-d7d4-4e5a-82d9-7aca56847b0b" /># 📊 SQL & NoSQL Database Design and Implementation
+📊 SQL & NoSQL Database Design and Implementation
 
 **Course:** ICT702 – Introduction to the Relational Database  
 **Role:** Group Member – Database Developer & Analyst  
