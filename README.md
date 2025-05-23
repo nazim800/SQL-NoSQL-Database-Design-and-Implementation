@@ -129,7 +129,8 @@ Implemented subqueries and joins to retrieve specific employee records
 Created virtual table EmpVirtual for unassigned employees
 
 
-``` ## 🔍 Section B: Advanced SQL Queries
+```sql
+## 🔍 Section B: Advanced SQL Queries
 -- d. Create EMPLOYEE1 as subset of EMPLOYEE
 CREATE TABLE EMPLOYEE1 (
     Emp_Num INT PRIMARY KEY,
@@ -246,7 +247,7 @@ PROJECT → EMPLOYEE
 ASSIGNMENT → EMPLOYEE & PROJECT
 
 ##🍃 Section D – NoSQL Implementation (MongoDB)**
-```
+```javascript
 // a. Create the database
 use Assi2Group1;
 
