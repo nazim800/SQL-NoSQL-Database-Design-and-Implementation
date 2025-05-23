@@ -1,6 +1,7 @@
 # 📊 SQL & NoSQL Database Design and Implementation
 
 **Topic:** Relational Database Management
+
 **Role:**  Database Developer & Analyst  
 **Technologies Used:** SQL Server, MongoDB (Studio 3T), Power BI, Microsoft Word, Microsoft PowerPoint
 
