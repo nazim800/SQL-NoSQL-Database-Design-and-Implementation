@@ -118,7 +118,7 @@ VALUES
 ```
 
 
-##⚙️ Section B – Advanced SQL Operations
+## ⚙️ Section B – Advanced SQL Operations
 
 Created EMPLOYEE1 and EMPLOYEE2 derived tables
 
@@ -234,7 +234,7 @@ WHERE Emp_Num NOT IN (SELECT Emp_Num FROM ASSIGNMENT);
 SELECT * FROM EmpVirtual;
 ```
 
-##📐 Section C – Entity Relationship Diagram (ERD)
+## 📐 Section C – Entity Relationship Diagram (ERD)
 
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/06589926-47c7-4f8b-bb6e-79ea60ab5af9" />
 
@@ -246,7 +246,7 @@ PROJECT → EMPLOYEE
 
 ASSIGNMENT → EMPLOYEE & PROJECT
 
-##🍃 Section D – NoSQL Implementation (MongoDB)
+## 🍃 Section D – NoSQL Implementation (MongoDB)
 ```javascript
 // a. Create the database
 use Assi2Group1;
@@ -273,7 +273,7 @@ db.Assignment.find({ Emp_Name: "Julia" }).pretty();
 db.Assignment.find({ Emp_Num: { $ne: 110 } }).pretty();
 ```
 
-##🎯 Key Takeaways
+## 🎯 Key Takeaways
 
 Mastered relational schema creation and data manipulation with SQL
 
@@ -281,6 +281,6 @@ Gained practical skills in MongoDB for flexible data modeling
 
 Practiced subqueries, joins, data integrity enforcement, and hybrid SQL–NoSQL environments
 
-##🏁 Conclusion
+## 🏁 Conclusion
 
 This project offered comprehensive experience in managing both structured and semi-structured data. It enhanced our proficiency in SQL and MongoDB while demonstrating how relational and non-relational systems can coexist in modern database solutions.
