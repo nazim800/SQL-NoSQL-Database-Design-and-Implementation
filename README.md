@@ -1,7 +1,7 @@
-📊 SQL & NoSQL Database Design and Implementation
+# 📊 SQL & NoSQL Database Design and Implementation
 
-**Course:** ICT702 – Introduction to the Relational Database  
-**Role:** Group Member – Database Developer & Analyst  
+**Topic:** Relational Database Management
+**Role:**  Database Developer & Analyst  
 **Technologies Used:** SQL Server, MongoDB (Studio 3T), Power BI, Microsoft Word, Microsoft PowerPoint
 
 ---
